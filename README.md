@@ -28,8 +28,6 @@ desenvolvido com Kotlin, Jetpack Compose, Room, DataStore e WorkManager
   </tr>
 </table>
 
-> Adicione `screenshots/ritmo-demo.gif` depois de gravar o app em um dispositivo real ou emulador.
-
 </div>
 
 ---
